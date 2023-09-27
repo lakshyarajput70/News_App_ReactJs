@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Beijing: Twelve held after Beijing hospital fire kills 29",
+    "description": "The director and deputy director of the hospital are among those being questioned by police.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-65320160",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6766/production/_129407462_9966e80b03fba227f480471b191392c8331913140_0_4145_27631000x667.jpg",
+    "publishedAt": "2023-04-19T07:07:15.2949366Z",
+    "content": "Twelve people have been detained by police for questioning after a hospital fire in Beijing killed at least 29, most of them patients. \r\nThe fire, among the deadliest in recent years, broke out in Ch… [+2225 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: The Russian ships accused of North Sea sabotage",
+    "description": "Disguised Russian ships are said to be preparing sabotage plans in case of war with Western powers.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65309687",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69F0/production/_129402172_mortenkruger.jpg",
+    "publishedAt": "2023-04-19T04:07:20.3666358Z",
+    "content": "Russia has a programme to sabotage wind farms and communication cables in the North Sea, according to new allegations.\r\nThe details come from a joint investigation by public broadcasters in Denmark, … [+5435 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kaylin Gillis: Driveway shooting suspect shows no remorse - police",
+    "description": "A young woman was killed in New York state when her car pulled up in the wrong driveway by mistake.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65319833",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/649F/production/_129395752_mediaitem129395578.jpg",
+    "publishedAt": "2023-04-19T03:37:15.2941637Z",
+    "content": "A man who allegedly shot and killed a 20-year-old woman in New York state as the car she was in mistakenly drove up the man's driveway has shown no remorse, police say.\r\nKaylin Gillis was in a car th… [+3076 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "‘I was born from rape - but I won’t let it define me’",
+    "description": "Refusing to let the past dictate their lives - people share stories of being born to mothers who were raped.",
+    "url": "http://www.bbc.co.uk/news/uk-65274470",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D2A/production/_129360986_tasnim_slaterking.jpg",
+    "publishedAt": "2023-04-19T01:07:16.6694102Z",
+    "content": "Children conceived as a result of rape will soon be recognised as victims of crime in England and Wales, the government says. Here, people share their stories of being born to mothers who were raped … [+11436 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What Americans can learn from Denmark on handling debt ceiling crisis",
+    "description": "Only two industrialised nations have debt ceilings - how come only the US fights about it?",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64878254",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C9F3/production/_129399615_danish_getty976.jpg",
+    "publishedAt": "2023-04-18T23:52:18.1395635Z",
+    "content": "The high-wire drama of raising the US debt ceiling is making headlines again. Is there a better way? Perhaps Denmark has the answer. \r\nThe US Congress is once more arguing about the country's debt ce… [+5624 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Netflix ends DVD rentals as it faces new era",
+    "description": "The streaming giant which began posting DVDs 25 years ago will send its final disc in September.",
+    "url": "http://www.bbc.co.uk/news/business-65318695",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03B6/production/_129405900_whatsubject.jpg",
+    "publishedAt": "2023-04-18T22:37:16.9502644Z",
+    "content": "Netflix is shutting down the DVD rental service that launched the firm 25 years ago, one of a series of changes as the streaming giant enters a new era. \r\nThe company, which upended the television an… [+2907 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mystery spiral seen in Alaskan skies",
+    "description": "Alaskan skywatchers were stunned by a mysterious spiral connected to SpaceX rocket launch.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65318797",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B838/production/_129406174_p0fhf5g2.jpg",
+    "publishedAt": "2023-04-18T22:07:16.5608135Z",
+    "content": "Up Next. Space junk seen in sky over northern California. Video, 00:00:35Space junk seen in sky over northern California"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Fox settles $1.6bn defamation case with Dominion",
+    "description": "Dominion had originally sought $1.6bn in damages from the powerful US media network.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65318654",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/092D/production/_129394320_fox.jpg",
+    "publishedAt": "2023-04-18T20:22:20.1544296Z",
+    "content": "In a last-minute deal, US voting technology firm Dominion has settled with Fox News just before their defamation trial was due to begin. \r\nDominion had originally sought $1.6bn (£1.3bn) from Fox, who… [+919 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Secret Service nabs toddler who squeezed through White House fence",
+    "description": "The little intruder squeezed through iron bars to lead guards on a leisurely chase.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65282085",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E96/production/_129405798_toddler.jpg",
+    "publishedAt": "2023-04-18T19:22:20.3106422Z",
+    "content": "US Secret Service stepped into action on Tuesday after a toddler slipped through the bars of iron fencing surrounding the White House.\r\nOfficers swept across the North Lawn to retrieve the child, who… [+1312 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ralph Yarl: Shooting suspect turns himself in",
+    "description": "Andrew Lester, 84, has been charged with shooting a teenager who rang the wrong doorbell.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65316073",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-04-18T18:52:15.9059123Z",
+    "content": "A US man in Missouri has turned himself in to face charges of assault after shooting a teenager who rang his doorbell.\r\nAndrew Lester, 84, has been charged with first-degree assault and armed crimina… [+491 chars]"
+    }
+    ]
+    }
